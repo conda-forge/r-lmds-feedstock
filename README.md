@@ -1,11 +1,11 @@
-About r-lmds
-============
+About r-lmds-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-lmds-feedstock/blob/main/LICENSE.txt)
 
 Home: http://github.com/dynverse/lmds
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-lmds-feedstock/blob/main/LICENSE.txt)
 
 Summary: A fast dimensionality reduction method scaleable to large numbers of samples. Landmark Multi-Dimensional Scaling (LMDS) is an extension of classical Torgerson MDS, but rather than calculating a complete distance matrix between all pairs of samples, only the distances between a set of landmarks and the samples are calculated.
 
